@@ -1,0 +1,133 @@
+
+Menu:
+1. Add customer
+2. Update customer
+3. Remove customer
+4. Display customer data
+5. Display all customer data
+6. Exit
+1
+Enter customer Name: Sam
+Enter customer Email: sam@abc.com
+Enter customer Phone no.: 3453455344
+------------------------------
+Customer Data Saved As:
+Cust_id: 0
+Name: Sam
+Email: sam@abc.com
+Phone no.: 3453455344
+
+Menu:
+1. Add customer
+2. Update customer
+3. Remove customer
+4. Display customer data
+5. Display all customer data
+6. Exit
+1
+Enter customer Name: Jack       
+Enter customer Email: jack@dcd.com
+Enter customer Phone no.: 9879878979   
+------------------------------
+Customer Data Saved As:
+Cust_id: 1
+Name: Jack
+Email: jack@dcd.com
+Phone no.: 9879878979
+
+Menu:
+1. Add customer
+2. Update customer
+3. Remove customer
+4. Display customer data
+5. Display all customer data
+6. Exit
+4
+Enter customer id: 1
+Name: Jack
+Email: jack@dcd.com
+Phone no.: 9879878979
+
+Menu:
+1. Add customer
+2. Update customer
+3. Remove customer
+4. Display customer data
+5. Display all customer data
+6. Exit
+5
+Cust_id: 0:
+Name: Sam
+Email: sam@abc.com
+Phone no.: 3453455344
+-----------------------
+Cust_id: 1:
+Name: Jack
+Email: jack@dcd.com
+Phone no.: 9879878979
+-----------------------
+
+Menu:
+1. Add customer
+2. Update customer
+3. Remove customer
+4. Display customer data
+5. Display all customer data
+6. Exit
+3
+Enter customer id to remove: 0
+
+Menu:
+1. Add customer
+2. Update customer
+3. Remove customer
+4. Display customer data
+5. Display all customer data
+6. Exit
+5
+Cust_id: 0:
+Name: Jack
+Email: jack@dcd.com
+Phone no.: 9879878979
+-----------------------
+
+Menu:
+1. Add customer
+2. Update customer
+3. Remove customer
+4. Display customer data
+5. Display all customer data
+6. Exit
+2
+Enter customer id: 0
+Update customer Name: gsf
+Update customer Email: ssfd
+Update customer Phone no.: 234
+
+Menu:
+1. Add customer
+2. Update customer
+3. Remove customer
+4. Display customer data
+5. Display all customer data
+6. Exit
+5
+Cust_id: 0:
+Name: gsf
+Email: ssfd
+Phone no.: 234
+-----------------------
+
+Menu:
+1. Add customer
+2. Update customer
+3. Remove customer
+4. Display customer data
+5. Display all customer data
+6. Exit
+  
+
+
+
+
+
